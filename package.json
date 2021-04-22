@@ -1,7 +1,7 @@
 {
-  "name": "vue3template",
+  "name": "chitchat",
   "version": "1.0.0",
-  "author": "Rodolfo Romamn <rromanv@gmail.com>",
+  "author": "Jesus Martinez <martinez.jesse84@yahoo.com>",
   "license": "ISC",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,10 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@vueuse/core": "^4.8.4",
+    "@vueuse/core": "^4.9.0",
+    "@vueuse/firebase": "^4.8.4",
+    "@vueuse/motion": "^1.5.4",
+    "firebase": "^8.4.1",
     "vue": "^3.0.5"
   },
   "devDependencies": {
