@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-red-700 text-black py-6">
+    <div class="fixed top-0 left-0 right-0 bg-red-700 text-black py-6 z-10">
         <div class="container mx-auto flex justify-between items-center">
             <div class="brand flex space-x-2 text-3xl">
                 <mdi:message-processing-outline />
